@@ -1,0 +1,24 @@
+name: prims_algorithm
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0-216.1.beta
+
+dependencies:
+  catppuccin_flutter: ^1.0.0
+  collection: ^1.19.0
+  fast_immutable_collections: ^10.2.4
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  flutter_force_directed_graph: ^1.0.7
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
